@@ -1,0 +1,66 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+body{
+	padding: 2.7818448%;
+}
+.back{
+	width: 100%;
+	height: 100%;
+	background: #22B573;
+}
+.title:first-child{
+	margin-left: 17%;
+}
+.title{
+	margin-bottom: 10%
+}
+.title h1{
+	text-transform: uppercase;
+	font-size: 250%;
+	color:white;
+	margin: 5% 0 0 5%;
+}
+.div-logo{
+	height: 100%;
+	width: 100%;
+}
+.logo{
+	float: right;
+	width: 15%;
+	margin: 6% 9% 0 0;
+}
+.d-inline-block{
+	display: inline-block;
+}
+.bg-sizes{
+	background: #FCEE21;
+	width: 44.5%;
+	height: 45%;
+}
+.bg-1{
+	float: left;
+	margin: 5% 0 0 4.7%
+}
+.bg-2{
+	float: right;
+	margin: 5% 4.7% 0 0%
+}
+.div-img-1{
+	width: 20%;
+	float: right;
+	margin: 2%;
+}
+.div-p-1{
+	margin:2%;
+	width: 70%
+}
+.div-p-2{
+	margin:2%;
+}
+.div-img-2{
+	width: 20%;
+	float: left;
+	margin: 2%;
+}
